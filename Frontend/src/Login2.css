@@ -1,0 +1,41 @@
+.login2{
+    width: 1445px;
+    position:relative;
+    height: 100%;
+    background-color:none;
+    margin-bottom:-25px;
+    
+    padding: 20px;
+ }
+ .background1{
+   margin-top: 50px;
+ }
+ .lafooter2
+ {  margin-top: -500px;
+    width: 400px;
+    height: 250px;
+    background-color: #f6ecec;
+    margin-left: 820px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+    position:absolute;
+    opacity: 0.9;
+ }
+ 
+.btn-submit2{
+    width: 100px;
+    height: 40px;
+    margin-left: 150px;
+    border-color: rgb(5, 192, 238);
+    border-style: solid;
+    background-color: #2991e1;
+    color: #fff;
+    margin-top: 40px;
+    border-radius: 10px;
+ }
+ .btn-submit2 :hover{
+    background-color: #02abb0;
+    color: #fff;
+    
+ }

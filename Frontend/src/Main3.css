@@ -1,0 +1,68 @@
+.Teamselector
+{   position:absolute;
+    margin-top: -900px;
+    margin-left: 300px;
+}
+.Mainbackground2
+{
+    position: relative;
+    margin-bottom: -10px;
+    margin-top: 0px;
+    height:1300px;
+}
+.selectplayingXI {
+    background-color: aliceblue;
+    width: auto;
+    height: auto;
+    font-family: sans-serif;
+    font-style: oblique;
+   
+    margin-top: -100px;
+    margin-left: 0px;
+}
+.p2
+{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: black;
+    opacity: 0.9;
+}
+.Playerlist1
+{
+    background-color: aliceblue;
+    border: 16px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    font-size: x-large;
+    font-style: oblique;
+}
+.Playerlist2
+{
+    background-color: rgb(17, 217, 235);
+    border: 10px;
+    border-style: solid;
+    border-color: rgb(17, 217, 235);
+    border-radius: 10px;
+    position: relative;
+    margin-left: 6px;
+    font-size: x-large;
+    font-style: inherit;
+}
+.Playerlist2:hover
+{
+    background-color: rgb(81, 200, 210);
+    border: 16px;
+    border-style: solid;
+    border-color: rgb(81, 200, 210);
+    border-radius: 10px;
+    position: relative;
+    margin-left: 6px;
+}
+.option
+{
+  font: bold;
+  font-size: 20px;
+ 
+  
+}

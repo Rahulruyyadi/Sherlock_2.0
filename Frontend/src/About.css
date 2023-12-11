@@ -1,0 +1,30 @@
+.About{
+    width: 1445px;
+    position: relative;
+    height: 100%;
+    background-color:none;
+    margin-bottom: 562px;
+    margin-top: 100px;
+    
+    
+    padding: 20px;
+ }
+ .About1{
+    width: 1000px;
+    position: absolute;
+    height: 100%;
+    margin-top:-80px ;
+    
+    margin-bottom: 300px;
+    
+    padding: 20px;
+ }
+ .img2
+ {
+    position:absolute;
+    margin-top:-120px;
+    height: 700px;
+    width: 1500px;
+    margin-left: -20px;
+    opacity: 1.9;
+ }
